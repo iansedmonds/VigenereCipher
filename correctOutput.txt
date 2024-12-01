@@ -1,0 +1,148 @@
+********************************************************************************
+************************* key0.txt and message0.txt*****************************
+********************************************************************************
+
+Vigenere Key:
+
+aaaaaaaaabaaaaaaaaabaaaaaaaaabaaaaaaaaabaaaaaaaaabaaaaaaaaabaaaaaaaaabaaaaaaaaab
+aaaaaaaaabaaaaaaaaabaaaaaaaaab
+
+Plain text:
+
+abcdefghijklmnoprstuvwxyzabcdefghijklmnoprstuvwxyzabcdefghijklmnoprstuvwxyzabcde
+fghijklmnoprstuvwxyzabcdefghijklmnoprstuvwxyzabcdefghijklmnoprstuvwxyzabcdefghij
+klmnoprstuvwxyzabcdefghijklmnoprstuvwxyzabcdefghijklmnoprstuvwxyzabcdefghijklmno
+prstuvwxyzabcdefghijklmnoprstuvwxyzabcdefghijklmnoprstuvwxyzabcdefghijklmnoprstu
+vwxyzabcdefghijklmnoprstuvwxyzabcdefghijklmnoprstuvwxyzabcdefghijklmnoprstuvwxyz
+abcdefghijklmnoprstuvwxyzabcdefghijklmnoprstuvwxyzabcdefghijklmnoprstuvwxyzabcde
+fghijklmnoprstuvwxyzxxxxxxxxxxxx
+
+Cipher Text:
+
+abcdefghikklmnoprstvvwxyzabcdffghijklmnpprstuvwxyaabcdefghikklmnoprstvvwxyzabcdf
+fghijklmnpprstuvwxyaabcdefghikklmnoprstvvwxyzabcdffghijklmnpprstuvwxyaabcdefghik
+klmnoprstvvwxyzabcdffghijklmnpprstuvwxyaabcdefghikklmnoprstvvwxyzabcdffghijklmnp
+prstuvwxyaabcdefghikklmnoprstvvwxyzabcdffghijklmnpprstuvwxyaabcdefghikklmnoprstv
+vwxyzabcdffghijklmnpprstuvwxyaabcdefghikklmnoprstvvwxyzabcdffghijklmnpprstuvwxya
+abcdefghikklmnoprstvvwxyzabcdffghijk
+
+********************************************************************************
+************************* key1.txt and message1.txt*****************************
+********************************************************************************
+
+Vigenere Key:
+
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+
+Plain text:
+
+ifyoufindthatyourespendingalmostallyourtimeontheorystartturningsomeattentiontopr
+acticalthingsitwillimproveyourtheoriesifyoufindthatyourespendingalmostallyourtim
+eonpracticestartturningsomeattentiontotheoreticalthingsitwillimproveyourpractice
+donaldknuthxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+Cipher Text:
+
+jgzpvgjoeuibuzpvsftqfoejohbmnptubmmzpvsujnfpouifpsztubsuuvsojohtpnfbuufoujpoupqs
+bdujdbmuijohtjuxjmmjnqspwfzpvsuifpsjftjgzpvgjoeuibuzpvsftqfoejohbmnptubmmzpvsujn
+fpoqsbdujdftubsuuvsojohtpnfbuufoujpoupuifpsfujdbmuijohtjuxjmmjnqspwfzpvsqsbdujdf
+epobmelovuiyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy
+yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy
+yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy
+yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy
+
+********************************************************************************
+************************* key2.txt and message2.txt*****************************
+********************************************************************************
+
+Vigenere Key:
+
+ithinkandthinkformonthsandyearsninetyninetimestheconclusionisfalsethehundredthti
+meiamrightalberteinsteinimaginationismoreimportantthanknowledgeforknowledgeislim
+itedwhereasimaginationembracestheentireworldstimulatingprogressgivingbirthtoevol
+utionalberteinstein
+
+Plain text:
+
+fallinlovewithsomeactivityanddoitnobodyeverfiguresoutwhatlifeisallaboutanditdoes
+ntmatterexploretheworldnearlyeverythingisreallyinterestingifyougointoitdeeplyeno
+ughworkashardandasmuchasyouwanttoonthethingsyouliketodothebestdontthinkaboutwhat
+youwanttobebutwhatyouwanttodokeepupsomekindofaminimumwithotherthingssothatsociet
+ydoesntstopyoufromdoinganythingatallrichardfeynmanxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+Cipher Text:
+
+ntstvxlbyxdqgrxcdqopmpnigbyrdugvbasumqgrzxzrmynyiuchvhbsbzvnwnsldptisbnnqumwwvxa
+zxuafkmxlqpwpvvmlmjgkplammrrgrvxzmgpazuzwzqpzcriamxyefdvbctjbuylczxgceehhkttqpva
+czlzkyorwhszpatlnsfcqueezfuyefmassampvxdwervqhcxcvemwquiyshvwlvuvobuoosruvnhacoe
+shcknneussxfcgoaeblwndiadtbghrmrzzdjaardpfdbiyqieazczabruwglxzflagnwucgjlnkwqvml
+ddzwwgawaicbfyikvflamvgmegzobnrbxrepzvuaezqnqytunnqflkfpjlobfjmloqxkqqexkhkltiba
+dbclohkltibadbfpifjfqbatebobxpfjxdfkxqflkbjyoxzbpqebbkqfobtloiapqfjrixqfkdmoldob
+ppdfsfkdyfoqeqlbslirqflkxiyboqbf
+
+
+********************************************************************************  
+************************* key3.txt and message3.txt*****************************
+********************************************************************************
+
+Vigenere Key:
+
+computerprogrammingisanartbecauseitappliesaccumulatedknowledgetotheworldbecausei
+trequiresskillandingenuityandespeciallybecauseitproducesobjectsofbeautyaprogramm
+erwhosubconsciouslyviewshimselfasanartistwillenjoywhathedoesandwilldoitbetterdon
+aldknuth
+
+Plain text:
+
+ihaveafriendwhosanartistandhassometimestakenaviewwhichidontagreewithverywellhell
+holdupaflowerandsaylookhowbeautifulitisandillagreethenhesaysiasanartistcanseehow
+beautifulthisisbutyouasascientisttakethisallapartanditbecomesadullthingandithink
+thatheskindofnuttyfirstofallthebeautythatheseesisavailabletootherpeopleandtometo
+oibelievealthoughimaynotbequiteasrefinedaestheticallyasheisicanappreciatethebeau
+tyofafloweratthesametimeiseemuchmoreabouttheflowerthanheseesicouldimaginethecell
+sintherethecomplicatedactionsins
+
+Cipher Text:
+
+kvmkytjixvbjnhaeiagzliftrgelcsmgqmmibtdbecepcpuyhwamfrvrkyxdmvxsppxdjvcbxinlbwpt
+afptoxrjdggmclnqvilrsbephubrdylxjwtietqbrfifdeoktvhkyplwgbhwktkosbvtclrcpegkvhai
+fvwbhazvnhuauqgvmewjceoszkuwrensltnkvmpalwtwltnahyjkimiifcqwsngqtwekwvzbrwbxylbx
+tsdduylrkbpdzgykiptoisfannrtlhrbvtvxatbsxpxsttdqwsvckfmvwemsrdusnairvpxogkxkaver
+pmdefaidxrpjbwlkzawijyogemdamgyilpeslrwsegatsprjgclfqeaatzglwcrsdqaiebshjulevxyu
+ipclrfxaavnhhlbfuozwvqayadczuyyztwdwemtultuewewoxnbslrungcazivvyormeatljmeshqmem
+wbgxyhfrtshmbgiskqmiywetizctjize
+
+
+********************************************************************************
+************************* key4.txt and message4.txt*****************************
+********************************************************************************
+
+Vigenere Key:
+
+abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzab
+cdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz
+
+Plain text:
+
+cowardsdiemanytimesbeforetheirdeathsthevaliantnevertasteofdeathbutonceofallthewo
+ndersthatiyethavehearditseemstomemoststrangethatmenshouldfearseeingthatdeathanec
+essaryendwillcomewhenitwillcomewilliamshakespearejuliuscaesarxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+Cipher Text:
+
+cpydviykqnwlzlhxcvkuyakocshfkuhjgapbdsqioayrfmhzrbpsatvhskjlicrmggccsvgyughqfdwp
+pgiwyapjdtkrhwqmwayvnagssfgpwyutmvydffhgqeyxncwqkdntjryqjmmjbdqrwcwkztnyaxrgaogf
+ixyhzhoypjwabtgfyrdblhtxkophutmfswxvobiysdynlbyqekwomzyjincldklmnopqrstuvwxyzabc
+defghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcde
+fghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefg
+hijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghi
+jklmnopqrstuvwxyzabcdefghijklmno
