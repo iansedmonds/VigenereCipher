@@ -15,12 +15,7 @@ Java version ran from terminal using the following commands:
 
 When providing key and message files, make sure they are in the same directory as the project.
 
-Expected outputs are provided:
-  key0.txt and message0.txt --> correctOutputk0m0.txt
-  key1.txt and message1.txt --> correctOutputk1m1.txt
-  key2.txt and message2.txt --> correctOutputk2m2.txt
-  key3.txt and message3.txt --> correctOutputk3m3.txt
-  key4.txt and message4.txt --> correctOutputk4m4.txt
+Expected outputs are provided in correctOutput.txt
 
 
 If the message file to be encrypted doesn't have the proper number (512) of alphabetic characters, the last block is padded as necessary with the letter 'x'. Both files will be stripped of nonalphabetic characters and turned lowercase.
